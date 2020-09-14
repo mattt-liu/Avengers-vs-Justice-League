@@ -1,0 +1,7 @@
+hawk 50 2 1
+spider 75 10 7
+hulk 90 40 15
+silver 120 50 25
+captain 130 60 10
+iron 220 80 15
+thor 320 100 20

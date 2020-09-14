@@ -1,0 +1,7 @@
+cyborg 50 5 5
+flash 70 20 15
+lantern 95 30 20
+aqua 120 40 15
+woman 175 60 10
+batman 220 85 5
+super 350 100 20
