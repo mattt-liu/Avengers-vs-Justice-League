@@ -1,6 +1,6 @@
 # Avengers vs. Justice League
 
-This python app is a tile-based tower defense type game. Similar to Plants vs. Zombies, enemies walk in different rows towards the towers which are arranged in a tile-based gird layout. The game features sprites for characters from both the Marvel's Avengers and DC Justice League.
+This python app is a tile-based tower defense type game. Similar to Plants vs. Zombies, enemies walk in different rows towards the towers which are arranged in a gird layout. The game features sprites for characters from both the Marvel's Avengers and DC Justice League.
 
 ## About
 
